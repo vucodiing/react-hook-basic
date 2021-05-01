@@ -1,0 +1,14 @@
+.color-box {
+    height: 200px;
+    width: 200px;
+    cursor: pointer;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    p {
+        color: white;
+        font-weight: 900;
+        font-size: 20px;
+    
+    }
+}
